@@ -30,6 +30,13 @@
             {
               "client_id": "948167491315-dat1rkruhtrqtf6cprmql0i9g53j4gbp.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "948167491315-p86i4kb0so71ua9r8c8d91f08b23altv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationPaperwork"
+              }
             }
           ]
         }
