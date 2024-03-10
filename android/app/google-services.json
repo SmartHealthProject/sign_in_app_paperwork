@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948167491315",
+    "firebase_url": "https://sch-app-e839b-default-rtdb.firebaseio.com",
+    "project_id": "sch-app-e839b",
+    "storage_bucket": "sch-app-e839b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948167491315:android:0f079e89b5cc7502910186",
+        "android_client_info": {
+          "package_name": "com.example.application_paperwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948167491315-dat1rkruhtrqtf6cprmql0i9g53j4gbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0S0EraxZTEEU_VRM1_L0-Q9WNFwKG_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948167491315-dat1rkruhtrqtf6cprmql0i9g53j4gbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
